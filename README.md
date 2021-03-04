@@ -1,7 +1,7 @@
 <h1 align="center">Form Login</h1>
 
 <h1>
-    <img src= "public/img.png">
+    <img src= "public/img.PNG">
 </h1>
 
 # Indice
@@ -29,8 +29,6 @@ O projeto foi desenvolvido com as seguintes tecnologias
     #clonar o repositório
     $ git clone https://github.com/AnikBonarde/form.git
 
-    #entrar no diretório
-    $ cd form
 
 ```
 
