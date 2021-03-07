@@ -33,7 +33,7 @@ O projeto foi desenvolvido com as seguintes tecnologias
 ```
 
 ---
-Desenvolvido por Anik Bonarde 🌻
+### Desenvolvido por Anik Bonarde 🌻
 
 
 
